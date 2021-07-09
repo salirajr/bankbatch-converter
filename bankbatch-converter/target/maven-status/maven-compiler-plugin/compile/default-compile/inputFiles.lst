@@ -1,0 +1,11 @@
+/Users/jovi/Documents/devjs/prj/bankbatch-converter/src/main/java/devjs/rnd/iagi/bankbatchconverter/model/BasilAparkost.java
+/Users/jovi/Documents/devjs/prj/bankbatch-converter/src/main/java/devjs/rnd/iagi/bankbatchconverter/service/InputTypeInService.java
+/Users/jovi/Documents/devjs/prj/bankbatch-converter/src/main/java/devjs/rnd/iagi/bankbatchconverter/service/BasilAparkostService.java
+/Users/jovi/Documents/devjs/prj/bankbatch-converter/src/main/java/devjs/rnd/iagi/bankbatchconverter/controller/ConvertingBankBatchMCMController.java
+/Users/jovi/Documents/devjs/prj/bankbatch-converter/src/main/java/devjs/rnd/iagi/bankbatchconverter/BankbatchConverterApplication.java
+/Users/jovi/Documents/devjs/prj/bankbatch-converter/src/main/java/devjs/rnd/iagi/bankbatchconverter/config/ApplicationConfig.java
+/Users/jovi/Documents/devjs/prj/bankbatch-converter/src/main/java/devjs/rnd/iagi/bankbatchconverter/usecase/BankBatchMCMUsecase.java
+/Users/jovi/Documents/devjs/prj/bankbatch-converter/src/main/java/devjs/rnd/iagi/bankbatchconverter/model/BankBatch.java
+/Users/jovi/Documents/devjs/prj/bankbatch-converter/src/main/java/devjs/rnd/iagi/bankbatchconverter/controller/ConvertngBasilAparkostController.java
+/Users/jovi/Documents/devjs/prj/bankbatch-converter/src/main/java/devjs/rnd/iagi/bankbatchconverter/usecase/BasilAparkostMergerUsecase.java
+/Users/jovi/Documents/devjs/prj/bankbatch-converter/src/main/java/devjs/rnd/iagi/bankbatchconverter/service/BankBatchService.java

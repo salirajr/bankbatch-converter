@@ -1,0 +1,12 @@
+devjs/rnd/iagi/bankbatchconverter/model/BankBatch.class
+devjs/rnd/iagi/bankbatchconverter/usecase/BasilAparkostMergerUsecase.class
+devjs/rnd/iagi/bankbatchconverter/controller/ConvertingBankBatchMCMController.class
+devjs/rnd/iagi/bankbatchconverter/BankbatchConverterApplication.class
+devjs/rnd/iagi/bankbatchconverter/controller/ConvertngBasilAparkostController.class
+devjs/rnd/iagi/bankbatchconverter/model/BasilAparkost.class
+devjs/rnd/iagi/bankbatchconverter/service/InputTypeInService.class
+devjs/rnd/iagi/bankbatchconverter/config/ApplicationConfig$1.class
+devjs/rnd/iagi/bankbatchconverter/usecase/BankBatchMCMUsecase.class
+devjs/rnd/iagi/bankbatchconverter/config/ApplicationConfig.class
+devjs/rnd/iagi/bankbatchconverter/service/BasilAparkostService.class
+devjs/rnd/iagi/bankbatchconverter/service/BankBatchService.class
